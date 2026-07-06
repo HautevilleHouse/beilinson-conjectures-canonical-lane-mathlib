@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "The Beilinson Conjectures via Regulator-L-Value Persistence Lean 4 Proof Package"
+message: "If you use this Lean proof package, cite this repository and the source Canonical Lane manuscript."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-11
+repository-code: "https://github.com/HautevilleHouse/beilinson-conjectures-canonical-lane-lean4"
+url: "https://github.com/HautevilleHouse/beilinson-conjectures-canonical-lane-lean4"
+license: None
+keywords:
+  - "lean4"
+  - "formalization"
+  - "mathematical-proof"
+  - "canonical-lane"
+  - "reviewer-bridge"
+  - "beilinson-conjectures"
+  - "motives"
+  - "regulators"
+  - "arithmetic-geometry"
+  - "l-functions"
+  - "reproducibility"
+preferred-citation:
+  type: article
+  title: "The Beilinson Conjectures via Regulator-L-Value Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-11
